@@ -1,0 +1,33 @@
+body{
+    background: url("https://tse4.mm.bing.net/th/id/OIP.wasuECbfL6P1pyFx2GwSHAHaLH?pid=ImgDet&w=853&h=1280&rs=1");
+    background-size: cover;
+}
+.back_col{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    width: 300px;
+}
+.heading{ 
+   font-size: 23px;
+   width: 100%;
+   margin: 0px;
+
+}
+#menu_button{
+    float: left;
+}
+#page_2{
+   margin-right: 25%;
+   float : bottom;
+}
+#song_{
+    width:300px
+}
+canvas{
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top:  160px;
+
+}
